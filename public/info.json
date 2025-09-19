@@ -5,8 +5,7 @@
     "subtitle": "Software Engineer",
     "description": "Software Engineering graduate working across full-stack and mobile development, always eager to learn and take on new challenges",
     "email": "abdullahelian@hotmail.com",
-    "phone": "+970 123 456 789",
-    "status": "Available for freelance work"
+    "phone": "+966508274452"
   },
   "projects": [
     {
@@ -18,7 +17,7 @@
       "technologies": ["React", "GSAP", "CSS3"],
       "category": "Web Development",
       "liveUrl": "https://example.com",
-      "githubUrl": "https://github.com/example",
+      "githubUrl": "https://github.com/Abdallaheleyan/personal-website",
       "featured": true,
       "year": "2025"
     },
@@ -62,35 +61,6 @@
       "year": "2025"
     }
     
-  ],
-  "services": [
-    {
-      "id": "1",
-      "icon": "💻",
-      "title": "Web Development",
-      "description": "Building responsive and interactive websites using modern technologies"
-    },
-    {
-      "id": "2", 
-      "icon": "🎨",
-      "title": "UI/UX Design",
-      "description": "Creating beautiful and intuitive user interfaces and experiences"
-    },
-    {
-      "id": "3",
-      "icon": "⚡",
-      "title": "Performance Optimization", 
-      "description": "Optimizing websites for speed, SEO, and user experience"
-    }
-  ],
-  "experience": [
-    {
-      "id": "1",
-      "position": "Senior Frontend Developer",
-      "company": "Tech Company",
-      "period": "2022 - Present",
-      "description": "Leading frontend development projects using React and modern web technologies"
-    }
   ],
   "skills": ["React", "Next.js", "Node.js", "Flutter", "Python", "Django", "TypeScript"],
   "social": {
