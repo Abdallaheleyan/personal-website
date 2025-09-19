@@ -614,6 +614,12 @@ html {
     height: 200px;
     min-height: 200px;
   }
+
+  /* Force project titles visible on mobile without hover */
+  .text-overlay {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .text-overlay {

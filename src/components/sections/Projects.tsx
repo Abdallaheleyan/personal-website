@@ -36,9 +36,9 @@ export function Projects({ projects }: ProjectsProps) {
                     )}
                   </div>
 
-                  <div className="text-overlay">
+                  <div className="text-overlay opacity-100 translate-y-0 sm:opacity-100 sm:translate-y-0">
                     <h2>{project.name}</h2>
-                    <p>{project.description}</p>
+                    <p className="hidden sm:block">{project.description}</p>
                   </div>
                 </div>
               </li>

@@ -8,10 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Adam Keyes - Front-End Developer",
-  description: "Crafting exceptional digital experiences with modern web technologies. Portfolio of Adam Keyes, Front-End Developer.",
-  keywords: "front-end developer, react, next.js, javascript, typescript, web development",
-  authors: [{ name: "Adam Keyes" }],
+  title: "Abdallah Eleyan - Software Engineer",
+  authors: [{ name: "Abdallah Eleyan" }],
 };
 
 export const viewport = {

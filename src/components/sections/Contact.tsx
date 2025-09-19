@@ -15,7 +15,7 @@ export function Contact({ email }: ContactProps) {
             </span>
           </h2>
           <div className="mb-20 relative">
-            <div className="text-3xl lg:text-5xl font-light text-[#4BC7BD] mb-8 cursor-pointer hover:scale-105 transition-transform p-8 rounded-2xl border border-[#4BC7BD]/20 backdrop-blur-sm neon-glow">
+            <div className="text-xl sm:text-2xl lg:text-5xl font-light text-[#4BC7BD] mb-8 cursor-pointer hover:scale-105 transition-transform p-8 rounded-2xl border border-[#4BC7BD]/20 backdrop-blur-sm neon-glow mx-auto max-w-full truncate">
               {email}
             </div>
           </div>
