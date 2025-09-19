@@ -14,7 +14,7 @@ export function About({ skills }: AboutProps) {
           </span>
         </h2>
         <p className="text-xl lg:text-2xl text-gray-300 leading-relaxed max-w-4xl mx-auto mb-12">
-          I'm a passionate software engineer with experience in full-stack and mobile development, always driven by curiosity and a love for learning
+          I&apos;m a passionate software engineer with experience in full-stack and mobile development, always driven by curiosity and a love for learning
         </p>
         <div className="flex flex-wrap justify-center gap-4">
           {skills.map((skill) => (
