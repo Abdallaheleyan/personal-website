@@ -1,0 +1,100 @@
+{
+  "personal": {
+    "name": "Abdallah Eleyan",
+    "title": "Abdallah Eleyan",
+    "subtitle": "Software Engineer",
+    "description": "Software Engineering graduate working across full-stack and mobile development, always eager to learn and take on new challenges",
+    "email": "abdullahelian@hotmail.com",
+    "phone": "+970 123 456 789",
+    "status": "Available for freelance work"
+  },
+  "projects": [
+    {
+      "id": "1",
+      "name": "Portfolio Website",
+      "longDescription": "A modern portfolio website featuring stunning animations, interactive elements, and seamless user experience. Built with React and advanced CSS techniques.",
+      "image": "/projects/thumbnails/port.jpg",
+      "icon": "/projects/icons/portfolio.png",
+      "technologies": ["React", "GSAP", "CSS3"],
+      "category": "Web Development",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/example",
+      "featured": true,
+      "year": "2025"
+    },
+    {
+      "id": "2", 
+      "name": "Smart Waste Reporting System",
+      "longDescription": "A comprehensive Django-based web platform for real-time waste reporting featuring image uploads, status tracking, and automated email notifications to municipal teams. Includes user authentication, geolocation services, and administrative dashboard.",
+      "image": "/projects/thumbnails/SmartWaste.jpg",
+      "icon": "/projects/icons/smartwaste.png",
+      "technologies": ["Django", "Python", "PostgreSQL"],
+      "category": "Web Development",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Abdallaheleyan/Smart_Waste_Reporting_System",
+      "featured": true,
+      "year": "2025"
+    },
+    {
+      "id": "3",
+      "name": "Electronics repair services system",
+      "longDescription": "Comprehensive electronics repair management system featuring service tracking, customer management, inventory control, and repair status updates with real-time notifications.",
+      "image": "/projects/thumbnails/alexey-demidov-5_Y8KBRRt_w-unsplash.jpg",
+      "icon": "/projects/icons/repair.png", 
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "category": "Web Development",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Abdallaheleyan/Electronics_Repair_Services",
+      "featured": true,
+      "year": "2025"
+    },
+    {
+      "id": "4",
+      "name": "FYP management website",
+      "longDescription": "Comprehensive Final Year Project management system featuring project tracking, supervisor assignment, milestone monitoring, and student progress evaluation with automated notifications.",
+      "image": "/projects/thumbnails/fyp.png",
+      "icon": "/projects/icons/fyp.png",
+      "technologies": ["React", "Node.js", "MySQL"],
+      "category": "Web Development",
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/Abdallaheleyan/fyp-management-system",
+      "featured": true,
+      "year": "2025"
+    }
+    
+  ],
+  "services": [
+    {
+      "id": "1",
+      "icon": "💻",
+      "title": "Web Development",
+      "description": "Building responsive and interactive websites using modern technologies"
+    },
+    {
+      "id": "2", 
+      "icon": "🎨",
+      "title": "UI/UX Design",
+      "description": "Creating beautiful and intuitive user interfaces and experiences"
+    },
+    {
+      "id": "3",
+      "icon": "⚡",
+      "title": "Performance Optimization", 
+      "description": "Optimizing websites for speed, SEO, and user experience"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "position": "Senior Frontend Developer",
+      "company": "Tech Company",
+      "period": "2022 - Present",
+      "description": "Leading frontend development projects using React and modern web technologies"
+    }
+  ],
+  "skills": ["React", "Next.js", "Node.js", "Flutter", "Python", "Django", "TypeScript"],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/abdallah-eleyan-9aa183353/",
+    "github": "https://github.com/abdallaheleyan"
+  }
+}
