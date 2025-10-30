@@ -118,8 +118,8 @@ export function Hero({ backgroundKey, heroRef, personal }: HeroProps) {
             Let&apos;s work together
           </button>
           <a
-            href="/Abdallah_Eleyan_CV.pdf"
-            download="Abdallah_Eleyan_CV.pdf"
+            href="/AbdallahEleyan_CV.pdf"
+            download="AbdallahEleyan_CV.pdf"
             className="bg-gradient-to-r from-[#4BC7BD] to-[#7DD3C0] text-black px-12 py-4 rounded-full font-bold text-lg shadow-2xl hover:scale-105 transition-transform neon-glow flex items-center gap-2"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

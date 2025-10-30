@@ -31,3 +31,6 @@ export function About({ skills }: AboutProps) {
 export default About;
 
 
+
+
+

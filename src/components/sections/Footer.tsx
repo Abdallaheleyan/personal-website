@@ -50,3 +50,4 @@ export function Footer({ name, subtitle, social }: FooterProps) {
 export default Footer;
 
 
+

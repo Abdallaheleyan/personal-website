@@ -157,5 +157,3 @@ export function useHomeAnimations(data: PortfolioData | null) {
 }
 
 export default useHomeAnimations;
-
-
