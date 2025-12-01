@@ -19,11 +19,10 @@
       "liveUrl": "https://example.com",
       "githubUrl": "https://github.com/Abdallaheleyan/personal-website",
       "featured": true,
-      
       "year": "2025"
     },
     {
-      "id": "2", 
+      "id": "2",
       "name": "Smart Waste Reporting System",
       "longDescription": "A comprehensive Django-based web platform for real-time waste reporting featuring image uploads, status tracking, and automated email notifications to municipal teams. Includes user authentication, geolocation services, and administrative dashboard.",
       "image": "/projects/thumbnails/SmartWaste.jpg",
@@ -40,7 +39,7 @@
       "name": "Electronics repair services system",
       "longDescription": "Comprehensive electronics repair management system featuring service tracking, customer management, inventory control, and repair status updates with real-time notifications.",
       "image": "/projects/thumbnails/alexey-demidov-5_Y8KBRRt_w-unsplash.jpg",
-      "icon": "/projects/icons/repair.png", 
+      "icon": "/projects/icons/repair.png",
       "technologies": ["React", "Node.js", "MongoDB"],
       "category": "Web Development",
       "liveUrl": "https://example.com",
@@ -50,18 +49,17 @@
     },
     {
       "id": "4",
-      "name": "FYP management website",
-      "longDescription": "Comprehensive Final Year Project management system featuring project tracking, supervisor assignment, milestone monitoring, and student progress evaluation with automated notifications.",
-      "image": "/projects/thumbnails/fyp.png",
+      "name": "Grocery App",
+      "longDescription": "A modern grocery shopping application offering seamless product browsing, smart cart management, and secure checkout. Features include real-time inventory updates and personalized recommendations.",
+      "image": "/projects/thumbnails/Grocery.webp",
       "icon": "/projects/icons/fyp.png",
       "technologies": ["React", "Node.js", "MySQL"],
       "category": "Web Development",
       "liveUrl": "https://example.com",
-      "githubUrl": "https://github.com/Abdallaheleyan/fyp-management-system",
+      "githubUrl": "https://github.com/Abdallaheleyan/Grocery_App",
       "featured": true,
       "year": "2025"
     }
-    
   ],
   "skills": ["React", "Next.js", "Node.js", "Flutter", "Python", "Django", "TypeScript"],
   "social": {
