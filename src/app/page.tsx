@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+
 import { usePortfolioData } from '@/hooks/usePortfolioData';
 import Navbar from '@/components/sections/Navbar';
 import Hero from '@/components/sections/Hero';
