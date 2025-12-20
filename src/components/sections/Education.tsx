@@ -35,7 +35,10 @@ export function Education() {
               <h4 className="text-lg font-bold text-white mb-2">100 Days of Code Python</h4>
               <p className="text-gray-400 text-sm mb-4">Udemy - Dr. Angela Yu</p>
               <div className="space-y-2">
-                <button className="w-full bg-[#4BC7BD] text-black py-2 rounded-lg font-medium hover:scale-105 transition-transform text-sm">
+                <button 
+                  onClick={() => window.open('/certificates/Python_Certificate.pdf', '_blank')}
+                  className="w-full bg-[#4BC7BD] text-black py-2 rounded-lg font-medium hover:scale-105 transition-transform text-sm"
+                >
                   View Certificate
                 </button>
               </div>
